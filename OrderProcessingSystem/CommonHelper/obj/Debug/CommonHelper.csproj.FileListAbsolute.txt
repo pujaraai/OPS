@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\OPS\OrderProcessingSystem\CommonHelper\bin\Debug\CommonHelper.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\OPS\OrderProcessingSystem\CommonHelper\bin\Debug\CommonHelper.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\OPS\OrderProcessingSystem\CommonHelper\bin\Debug\Business.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\OPS\OrderProcessingSystem\CommonHelper\bin\Debug\Business.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\OPS\OrderProcessingSystem\CommonHelper\obj\Debug\CommonHelper.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\OPS\OrderProcessingSystem\CommonHelper\obj\Debug\CommonHelper.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\OPS\OrderProcessingSystem\CommonHelper\obj\Debug\CommonHelper.pdb

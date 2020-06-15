@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Busine
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonHelper", "CommonHelper\CommonHelper.csproj", "{24D45741-333C-4E8F-8203-7FB9FD80244C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderProcessingSystem_TestCases", "OrderProcessingSystem_TestCases\OrderProcessingSystem_TestCases.csproj", "{D7D4F0BB-D6DF-4EB1-ADF1-0270928D81D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{24D45741-333C-4E8F-8203-7FB9FD80244C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24D45741-333C-4E8F-8203-7FB9FD80244C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24D45741-333C-4E8F-8203-7FB9FD80244C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7D4F0BB-D6DF-4EB1-ADF1-0270928D81D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7D4F0BB-D6DF-4EB1-ADF1-0270928D81D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7D4F0BB-D6DF-4EB1-ADF1-0270928D81D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7D4F0BB-D6DF-4EB1-ADF1-0270928D81D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
